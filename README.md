@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjunsharma-py
 - 🌱 I’m currently pursuing Bechelor of technology with computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me ...
 
 <!---
